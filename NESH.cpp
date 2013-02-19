@@ -1,3 +1,5 @@
+/*Written by Neri Lemus - November 2012*/
+
 #include <iostream>
 #include <stdlib.h>
 #include <unistd.h>
